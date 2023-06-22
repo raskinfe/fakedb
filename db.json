@@ -1,0 +1,22 @@
+{
+  [
+    {
+        id: "1",
+        title: "event 1",
+        location: 'event1 location',
+        time: new Date().getDate().toString()
+    },
+    {
+        id: "2",
+        title: "event 2",
+        location: 'event2 location',
+        time: new Date().getDate().toString()
+    },
+    {
+        id: "3",
+        title: "event 3",
+        location: 'event3 location',
+        time: new Date().getDate().toString()
+    }
+]
+}
