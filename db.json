@@ -1,22 +1,22 @@
 {
-  [
-    {
-        "id": "1",
-        "title": "event 1",
-        "location": "event1 location",
-        "time": "1/11/2022"
-    },
-    {
-        "id": "2",
-        "title": "event 2",
-        "location": "event2 location",
-        "time": "10/11/2022"
-    },
-    {
-        "id": "3",
-        "title": "event 3",
-        "location": "event3 location",
-        "time": "1/12/2022"
-    }
-]
+   [
+      {
+         "id":"1",
+         "title":"event 1",
+         "location":"event1 location",
+         "time":"1/11/2022"
+      },
+      {
+         "id":"2",
+         "title":"event 2",
+         "location":"event2 location",
+         "time":"10/11/2022"
+      },
+      {
+         "id":"3",
+         "title":"event 3",
+         "location":"event3 location",
+         "time":"1/12/2022"
+      }
+   ]
 }
